@@ -1,0 +1,128 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  color: #222;
+}
+img{
+  max-width: 100%;
+}
+main{
+  padding: 10px;
+  max-width: 700px;
+  margin: 0 auto;
+
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+header a{
+  text-decoration: none;
+  color: inherit;
+  margin-bottom: 50px;
+
+}
+header a.logo{
+  font-size: 1.5em;
+  font-weight: bold;
+}
+header a:hover{
+  text-decoration: underline;
+}
+header nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+header nav a{
+  margin-left: 10px;
+  padding: 5px;
+  border-radius: 5px;
+}
+div.post{
+  margin-bottom: 30px;
+  display: flex;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 15px #ccc;
+}
+div.post img{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 5px;
+
+  margin-right: 10px;
+}
+div.post div.texts h2{
+  margin: 0;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+div.post div.texts a{
+  text-decoration: none;
+  color: inherit;
+}
+div.post p.info{
+  margin:6px 0;
+  display: flex;
+  gap: 10px;
+  font-size: 0.7em;
+  color: #888;
+  font-weight: bold;
+}
+div.post p.info a.author{
+  color: #222;
+
+}
+div.post p.info a:hover{
+  text-decoration: underline;
+}
+div.post p.summary{
+  margin: 10px 0;
+  line-height: 1.4rem;
+  font-size: 0.9em;
+  color: #555;
+}
+form.login,form.register{
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 15px #ccc;
+}
+input{
+  display: block;
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+button{
+  display: block;
+  width: 100%;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  background: #555;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+button:hover{
+  background: #666;
+}
+form.login h1,form.register h1{
+  margin-bottom: 10px;
+  font-size: 1.5em;
+  text-align: center;
+}
