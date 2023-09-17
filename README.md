@@ -12,7 +12,8 @@ A blogg app using reactJS
 - Securely log in to your account using your username and password.
 - Ensure the privacy and security of your personal information.
 
-- ![image](https://github.com/ruturaj-gh/Blogg-App/assets/83021083/6030e189-6124-401e-a931-e2fd9fbfbdd9)
+  ![image](https://github.com/ruturaj-gh/Blogg-App/assets/83021083/9d46c996-e8f0-4f7d-8788-dcc18f6de4f7)
+
 
 
 ### Create Professional Blog Posts
@@ -25,7 +26,8 @@ A blogg app using reactJS
 
 
 - 
-![image](https://github.com/ruturaj-gh/Blogg-App/assets/83021083/04a54011-0976-4ce1-a9a0-600882d565d7)
+![image](https://github.com/ruturaj-gh/Blogg-App/assets/83021083/ee0b3d39-01ad-4ad9-b2cd-ed131cfeef48)
+
 
 
 ### Add Images to Your Posts
@@ -33,9 +35,13 @@ A blogg app using reactJS
 - Upload and embed images directly into your blog posts.
 - Enhance your storytelling with visuals and illustrations.
 - Ensure your images are optimized for web viewing.
-- 
-![image](https://github.com/ruturaj-gh/Blogg-App/assets/83021083/08cc019a-b79d-4237-87e7-cfece054f798)
+
+![image](https://github.com/ruturaj-gh/Blogg-App/assets/83021083/c22b3cf8-86a0-4c7b-9a50-fad1d2ac00be)
 
 
-![image](https://github.com/ruturaj-gh/Blogg-App/assets/83021083/7d89721b-c02b-4a55-b129-8498923bcb2e)
+
+![image](https://github.com/ruturaj-gh/Blogg-App/assets/83021083/d5f61c2f-aac2-4933-b412-561213212d0e)
+
+
+
 
