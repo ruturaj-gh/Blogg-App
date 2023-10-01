@@ -1,6 +1,8 @@
 # Blogg-App
 A blogg app using reactJS
 
+
+
 - **Log in** securely using your username and password.
 - Create and publish **professional blog posts**.
 - Enhance your content with **images**.
@@ -39,9 +41,18 @@ A blogg app using reactJS
 ![image](https://github.com/ruturaj-gh/Blogg-App/assets/83021083/c22b3cf8-86a0-4c7b-9a50-fad1d2ac00be)
 
 
-
 ![image](https://github.com/ruturaj-gh/Blogg-App/assets/83021083/d5f61c2f-aac2-4933-b412-561213212d0e)
 
+
+## Getting Started
+To run this project, follow these steps:
+1. Navigate to the `client` directory.
+2. Run `yarn start` to start the ReactJS application.
+3. Navigate to the `api` directory.
+4. Run `node index.js` to start the API server.
+
+## How to Contribute
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
 
 
