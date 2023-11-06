@@ -22,10 +22,20 @@ export default function Headers() {
       credentials: "include",
       method: "POST",
     })
-    
-    setUserInfo(null);
-    
-  };
+    .then(response => {
+      if (response.status === 200) {
+        // Logout was successful, redirect to '/'
+        window.location.href = '/';
+      } else {
+        // Handle errors or display a message to the user
+        console.error("Logout failed.");
+      }
+    })
+    .catch(error => {
+      console.error("An error occurred during logout:", error);
+    });
+  }
+  
   
   const username = userInfo && userInfo.username;
   
